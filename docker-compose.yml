@@ -1,5 +1,6 @@
 version: "2.2"
 
+
 services:
   my-app:
     image: arx75/github-actions-docker-java-app:0.0.1.Release
